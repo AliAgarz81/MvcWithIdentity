@@ -1,2 +1,2 @@
 # MvcWithIdentity
- Register, Login and Logout actions with Asp.Net Core Mvc.
+Register, Login and Logout actions with Identity in Asp.Net Core Mvc.
